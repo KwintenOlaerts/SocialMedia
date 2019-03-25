@@ -1,0 +1,19 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "Social Media Platform w Aisha & Sonia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwintenOlaerts/SocialMedia.git"
+  },
+  "author": "Kwinten Olaerts, Aisha El Salawi, Sonia Testaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwintenOlaerts/SocialMedia/issues"
+  },
+  "homepage": "https://github.com/KwintenOlaerts/SocialMedia#readme"
+}
